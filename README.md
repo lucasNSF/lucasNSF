@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub Profile! 👋🏾</h1>
 <h3 align="center">I'm Lucas Nascimento, System Analysis and Development student! 🧑🏾‍💻</h3>
-<h3 align="center">Programming Enthusiast! 😄</h3>
+<h3 align="center">Programming enthusiast in constant development! 😄</h3>
 
 <div align="center">
   <a href="https://github.com/lucasNSF">
