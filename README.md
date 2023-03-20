@@ -2,11 +2,11 @@
 <h3 align="center">I'm Lucas Nascimento, System Analysis and Development student! 🧑🏾‍💻</h3>
 <h3 align="center">Programming enthusiast in constant development! 😄</h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/lucasNSF">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasNSF&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNSF&layout=compact&langs_count=7&theme=default"/>
-</div>
+</div> -->
 
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=lucasNSF&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15">
